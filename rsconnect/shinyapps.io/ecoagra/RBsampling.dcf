@@ -1,0 +1,10 @@
+name: RBsampling
+title: RBsampling
+username: ecoagra
+account: ecoagra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18219088
+bundleId:
+url: https://ecoagra.shinyapps.io/RBsampling/
+version: 1
